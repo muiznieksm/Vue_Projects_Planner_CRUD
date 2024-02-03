@@ -54,3 +54,6 @@ Mārtiņš Muižnieks
 ## Acknowledgments
 - [Vue.js documentation](https://vuejs.org/v2/guide/)
 - [json-server documentation](https://github.com/typicode/json-server)
+
+## Preview 
+<img src="preview.gif" alt="Project Preview" width="70%" style="border: 1px solid #ccc; border-radius: 5px; box-shadow: 3px 3px 5px #888;">

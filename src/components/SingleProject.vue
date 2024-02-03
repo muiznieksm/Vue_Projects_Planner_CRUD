@@ -50,15 +50,21 @@ export default {
 <style scoped>
 .project {
   margin: 20px auto;
-  background: white;
+  background: #4444;
   padding: 10px 20px;
   border-radius: 4px;
   box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.05);
-  border-left: 4px solid #e90074;
+  border-left: 6px solid #e90074;
 }
 h3 {
   cursor: pointer;
+  color: #bbb;
 }
+
+p{
+  color: #bbb;
+}
+
 .actions {
   display: flex;
   justify-content: space-between;
@@ -75,7 +81,7 @@ h3 {
 }
 /* completed projects */
 .project.complete {
-  border-left: 4px solid #00ce89;
+  border-left: 6px solid #00ce89;
 }
 .project.complete .tick {
   color: #00ce89;

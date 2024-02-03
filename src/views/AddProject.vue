@@ -39,9 +39,10 @@ export default {
 
 <style>
 form {
-  background: white;
+  background: #4444;
   padding: 20px;
   border-radius: 10px;
+  border: 4px solid #00ce89;
 }
 label {
   display: block;
@@ -55,25 +56,33 @@ label {
 input {
   padding: 10px;
   border: 0;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #00ce89;
   width: 100%;
   box-sizing: border-box;
+  background-color: #4444;
+  color: #bbb;
 }
 textarea {
-  border: 1px solid #ddd;
+  border: 1px solid #00ce89;
+  border-radius: 4px;
   padding: 10px;
   width: 100%;
   box-sizing: border-box;
   height: 100px;
+  resize: vertical;
+  background-color: #4444;
+  color: #bbb;
+
 }
 form button {
   display: block;
   margin: 20px auto 0;
   background: #00ce89;
-  color: white;
+  color: #444;
   padding: 10px;
   border: 0;
   border-radius: 6px;
   font-size: 16px;
+  font-weight: 600;
 }
 </style>
