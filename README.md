@@ -2,6 +2,9 @@
 # Project Planner CRUD
 This is a project planner application built with Vue.js. It utilizes Vue Router for navigation and relies on a mock backend provided by json-server.
 
+## Preview 
+<img src="preview.gif" alt="Project Preview" width="70%" style="border: 1px solid #ccc; border-radius: 5px; box-shadow: 3px 3px 5px #888;">
+
 ## Getting Started
 These instructions will guide you through setting up and running the application on your local machine for development and testing purposes.
 
@@ -55,5 +58,4 @@ Mārtiņš Muižnieks
 - [Vue.js documentation](https://vuejs.org/v2/guide/)
 - [json-server documentation](https://github.com/typicode/json-server)
 
-## Preview 
-<img src="preview.gif" alt="Project Preview" width="70%" style="border: 1px solid #ccc; border-radius: 5px; box-shadow: 3px 3px 5px #888;">
+
